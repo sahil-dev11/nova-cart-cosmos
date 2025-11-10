@@ -1,6 +1,7 @@
 # Welcome to your Lovable project
 
 ## Project info
+**Preview Link** : https://nova-cart-cosmos.lovable.app
 
 **URL**: https://lovable.dev/projects/0ee57e08-09dd-4461-8c8c-67d465115119
 
